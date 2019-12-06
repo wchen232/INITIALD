@@ -1,9 +1,9 @@
 body {
     background-color: black;
     text-align: center;
-    margin: 0;
-    padding: 300px;
+    margin: 150px auto;
+    padding: 0px;
 }
 img {
-  max-width: 100%;
+  max-width: 40%;
 }
